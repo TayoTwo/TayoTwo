@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tayo
-- 👀 I’m into making games of every genre! I currently work in Unity but I'm hoping to learn some Unreal in the near future.
+- 👀 I’m into making new experiences through games! I currently work in Unity but I'm hoping to learn some Unreal in the near future.
 - 🌱 I’m currently learning studying an Msc Computer Games Programming.
 - 💻 Socials: @TayoTwo_ on Twitter and Insta
 - 🌐 Website: https://tayotwo.github.io/projects.html
